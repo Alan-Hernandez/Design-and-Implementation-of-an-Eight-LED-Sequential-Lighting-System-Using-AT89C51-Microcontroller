@@ -11,7 +11,7 @@ The 8051 microcontroller has four 8-bit I/O ports. An LED connected to Port 2 ca
 ### Circuit Connections
 LED Anode → +5V through 330 Ω resistor, LED Cathode → P2.0 (active LOW) or alternatively P2.0→330 Ω→LED→GND (active HIGH).
 
-
+ 
 
 ### Algorithm
 1. Start the program.
